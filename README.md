@@ -1,3 +1,5 @@
+# https://github.com/feliplus/calculadora-python.git
+
 # Python Project
 
 Um projeto Python útil e educativo
@@ -56,3 +58,5 @@ Link do Projeto: [https://github.com/seu-usuario/projeto](https://github.com/seu
 ---
 
 ⭐ Se este projeto te ajudou, considere dar uma estrela!
+
+Commit simulado em 2022-12-23T12:00:00
